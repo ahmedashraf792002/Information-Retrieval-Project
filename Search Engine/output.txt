@@ -1,0 +1,9 @@
+ranking of the documents
+document1 is 1 relevant document for the given query
+document3 is 2 relevant document for the given query
+document4 is 3 relevant document for the given query
+document14 is 4 relevant document for the given query
+document16 is 5 relevant document for the given query
+document17 is 6 relevant document for the given query
+document19 is 7 relevant document for the given query
+document20 is 8 relevant document for the given query
